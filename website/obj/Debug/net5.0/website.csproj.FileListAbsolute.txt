@@ -1,0 +1,164 @@
+D:\projects\website\bin\Debug\net5.0\appsettings.Development.json
+D:\projects\website\bin\Debug\net5.0\appsettings.json
+D:\projects\website\bin\Debug\net5.0\website.exe
+D:\projects\website\bin\Debug\net5.0\website.deps.json
+D:\projects\website\bin\Debug\net5.0\website.runtimeconfig.json
+D:\projects\website\bin\Debug\net5.0\website.runtimeconfig.dev.json
+D:\projects\website\bin\Debug\net5.0\website.dll
+D:\projects\website\bin\Debug\net5.0\ref\website.dll
+D:\projects\website\bin\Debug\net5.0\website.pdb
+D:\projects\website\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\projects\website\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projects\website\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projects\website\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projects\website\obj\Debug\net5.0\website.csproj.AssemblyReference.cache
+D:\projects\website\obj\Debug\net5.0\website.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\website\obj\Debug\net5.0\website.AssemblyInfoInputs.cache
+D:\projects\website\obj\Debug\net5.0\website.AssemblyInfo.cs
+D:\projects\website\obj\Debug\net5.0\website.csproj.CoreCompileInputs.cache
+D:\projects\website\obj\Debug\net5.0\website.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\website\obj\Debug\net5.0\website.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\website\obj\Debug\net5.0\staticwebassets\website.StaticWebAssets.Manifest.cache
+D:\projects\website\obj\Debug\net5.0\staticwebassets\website.StaticWebAssets.xml
+D:\projects\website\obj\Debug\net5.0\scopedcss\bundle\website.styles.css
+D:\projects\website\obj\Debug\net5.0\website.RazorTargetAssemblyInfo.cache
+D:\projects\website\obj\Debug\net5.0\website.csproj.CopyComplete
+D:\projects\website\obj\Debug\net5.0\website.dll
+D:\projects\website\obj\Debug\net5.0\ref\website.dll
+D:\projects\website\obj\Debug\net5.0\website.pdb
+D:\projects\website\obj\Debug\net5.0\website.genruntimeconfig.cache
+D:\projects\website\bin\Debug\net5.0\DnsClient.dll
+D:\projects\website\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\projects\website\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\projects\website\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\projects\website\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\projects\website\bin\Debug\net5.0\SharpCompress.dll
+D:\projects\website\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+D:\projects\website\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+D:\projects\website\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+D:\projects\website\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\projects\website\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\projects\website\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\appsettings.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\website.exe
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\website.deps.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\website.runtimeconfig.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\website.runtimeconfig.dev.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\website.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\ref\website.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\website.pdb
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\DnsClient.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\obj\Debug\net5.0\website.csproj.AssemblyReference.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\obj\Debug\net5.0\website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\obj\Debug\net5.0\website.AssemblyInfoInputs.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\obj\Debug\net5.0\website.AssemblyInfo.cs
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\obj\Debug\net5.0\website.csproj.CoreCompileInputs.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\obj\Debug\net5.0\website.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\obj\Debug\net5.0\website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\obj\Debug\net5.0\staticwebassets\website.StaticWebAssets.Manifest.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\obj\Debug\net5.0\staticwebassets\website.StaticWebAssets.xml
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\obj\Debug\net5.0\scopedcss\bundle\website.styles.css
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\obj\Debug\net5.0\website.RazorTargetAssemblyInfo.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\obj\Debug\net5.0\website.csproj.CopyComplete
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\obj\Debug\net5.0\website.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\obj\Debug\net5.0\ref\website.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\obj\Debug\net5.0\website.pdb
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\website\obj\Debug\net5.0\website.genruntimeconfig.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\appsettings.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\website.StaticWebAssets.xml
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\website.exe
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\website.deps.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\website.runtimeconfig.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\website.runtimeconfig.dev.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\website.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\ref\website.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\website.pdb
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\DnsClient.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\obj\Debug\net5.0\website.csproj.AssemblyReference.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\obj\Debug\net5.0\website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\obj\Debug\net5.0\website.AssemblyInfoInputs.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\obj\Debug\net5.0\website.AssemblyInfo.cs
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\obj\Debug\net5.0\website.csproj.CoreCompileInputs.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\obj\Debug\net5.0\website.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\obj\Debug\net5.0\website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\obj\Debug\net5.0\scopedcss\bundle\website.styles.css
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\obj\Debug\net5.0\staticwebassets\website.StaticWebAssets.Manifest.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\obj\Debug\net5.0\website.RazorTargetAssemblyInfo.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\obj\Debug\net5.0\website.csproj.CopyComplete
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\obj\Debug\net5.0\website.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\obj\Debug\net5.0\ref\website.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\obj\Debug\net5.0\website.pdb
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuan\website\obj\Debug\net5.0\website.genruntimeconfig.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\appsettings.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\website.StaticWebAssets.xml
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\website.exe
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\website.deps.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\website.runtimeconfig.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\website.runtimeconfig.dev.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\website.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\ref\website.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\website.pdb
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\DnsClient.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\obj\Debug\net5.0\website.csproj.AssemblyReference.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\obj\Debug\net5.0\website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\obj\Debug\net5.0\website.AssemblyInfoInputs.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\obj\Debug\net5.0\website.AssemblyInfo.cs
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\obj\Debug\net5.0\website.csproj.CoreCompileInputs.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\obj\Debug\net5.0\website.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\obj\Debug\net5.0\website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\obj\Debug\net5.0\scopedcss\bundle\website.styles.css
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\obj\Debug\net5.0\staticwebassets\website.StaticWebAssets.Manifest.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\obj\Debug\net5.0\website.RazorTargetAssemblyInfo.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\obj\Debug\net5.0\website.csproj.CopyComplete
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\obj\Debug\net5.0\website.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\obj\Debug\net5.0\ref\website.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\obj\Debug\net5.0\website.pdb
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\website\obj\Debug\net5.0\website.genruntimeconfig.cache
